@@ -52,14 +52,6 @@ body {
 }
 /* products */
 
-.products h3 {
-  font-size: 24px;
-  color: #545454;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  text-align: center;
-}
-
 .product {
   width: 225px;
   text-align: center;
@@ -70,6 +62,14 @@ body {
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 80px;
+}
+
+.products h3 {
+  font-size: 24px;
+  color: #545454;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
 }
 
 .product-list {
