@@ -43,10 +43,10 @@ body {
   background-size: cover;
   background-position: center center;
   vertical-align: middle;
+  text-align: center;
 }
 
 .hero-header a{
-  text-align: center;
   font-size: 48px;
   color: #ffffff;
 }
