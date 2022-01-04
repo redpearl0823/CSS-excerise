@@ -43,6 +43,12 @@ body {
   background-size: cover;
   background-position: center center;
 }
+
+.hero-header a{
+  text-align: center;
+  vertical-align: middle;
+  font-size: 48px;
+  color: #ffffff
 /* products */
 
 .products h3 {
