@@ -28,14 +28,14 @@ body {
 
 .intro h2 {
   font-size :32px;
-  color: red;
+  color: white;
   font-weight: 30;
   margin-top: 0;
   margin-bottom: 18px;
 }
 .intro h3 {
   font-size: 22px;
-  color: red;
+  color: white;
   font-weight: 300;
   margin-top: 0;
   margin-bottom: 48px;
@@ -44,7 +44,7 @@ body {
   background-color: #5900e7;
   border-radius: 2px;
   padding: 10px 30px;
-  color: withe;
+  color: white;
   font-weight: 300;
   
 }
