@@ -28,7 +28,7 @@ body {
 
 .intro h2 {
   font-size :32px;
-  color: white;
+  color: green;
   font-weight: 30;
   margin-top: 0;
   margin-bottom: 18px;
@@ -44,7 +44,7 @@ body {
   background-color: #5900e7;
   border-radius: 2px;
   padding: 10px 30px;
-  color: white;
+  color: red;
   font-weight: 300;
   
 }
